@@ -7,7 +7,7 @@ Python GUI Shopping Cart Application
 5) Youtube Presentation Link: https://www.youtube.com/watch?v=STWJ9e8do5g
 
 # How to run the program
-1) Place all files with the same folder (finalproject.py,guifunctions.py.sqlsetup.py,database1.db)
+1) Place all files with the same folder ( finalproject.py, guifunctions.py, sqlsetup.py, database1.db )
 2) Create a folder called "icons" (in the directory as finalproject.py) and place cart.ico and shop.ico files in that folder
 3) Run finalproject.py
 
