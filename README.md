@@ -5,3 +5,4 @@ Python GUI Shopping Cart Application
 3) When a user checks out, an order confirmation text file is generated in the project directory in a folder called orders
 4) Initial database is included for testing purposes
 5) Rename init.db -> database1.db; Place database1.db in same directory as finalproject.py
+6) Youtube Presentation Link: https://www.youtube.com/watch?v=STWJ9e8do5g
