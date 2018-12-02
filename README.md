@@ -6,3 +6,7 @@ Python GUI Shopping Cart Application
 4) Initial database is included for testing purposes
 5) Rename init.db -> database1.db; Place database1.db in same directory as finalproject.py
 6) Youtube Presentation Link: https://www.youtube.com/watch?v=STWJ9e8do5g
+
+# How to run the program
+1) Place all files with the same folder (finalproject.py,guifunctions.py.sqlsetup.py)
+2) 
